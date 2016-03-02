@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+    <items>
+        <item tdCode="ITEM000001" name="羽毛球" typeCode="" unit="个" unitPrice="100" />
+        <item tdCode="ITEM000003" name="苹果" typeCode="" unit="斤" unitPrice="550" />
+        <item tdCode="ITEM000005" name="可口可乐" typeCode="" unit="瓶" unitPrice="300" />
+    </items>
+    
+  <disList>  
+    <discounts>
+        <discount discntCode="btgof" discntName="买二赠一" typeCode="">
+            <item tdCode="ITEM000005"/>
+            <item tdCode="ITEM000001"/>
+        </discount>
+        
+        <discount discntCode="5disoff" discntName="95折" typeCode="">
+        </discount>
+    </discounts>
+    
+    <discounts>
+        <discount discntCode="btgof" discntName="买二赠一" typeCode="">
+        </discount>
+        
+        <discount discntCode="5disoff" discntName="95折" typeCode="">
+        </discount>
+    </discounts>
+    
+    <discounts>
+        <discount discntCode="btgof" discntName="买二赠一" typeCode="">
+        </discount>
+        
+        <discount discntCode="5disoff" discntName="95折" typeCode="">
+            <item tdCode="ITEM000003"/>
+        </discount>
+    </discounts>
+    
+    <discounts>
+        <discount discntCode="btgof" discntName="买二赠一" typeCode="">
+            <item tdCode="ITEM000005"/>
+            <item tdCode="ITEM000001"/>
+        </discount>
+        
+        <discount discntCode="5disoff" discntName="95折" typeCode="">
+            <item tdCode="ITEM000003"/>
+        </discount>
+    </discounts>
+    
+  </disList>
+    
+</conf>
+
