@@ -4,7 +4,7 @@ package com.lys.printman.bean;
  * 
  * Description: 元素  所有商品都是购物小票中的元素
  * Date: 2016年3月2日 
- * Copyright (c) 2016 AI 
+ * Copyright (c) 2016 LYS 
  * 
  * @author Liuys5
  */

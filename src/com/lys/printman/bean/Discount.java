@@ -7,7 +7,7 @@ import java.util.Set;
  * 
  * Description: 优惠实体
  * Date: 2016年3月2日 
- * Copyright (c) 2016 AI 
+ * Copyright (c) 2016 LYS 
  * 
  * @author Liuys5
  */
